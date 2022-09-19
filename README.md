@@ -10,4 +10,4 @@
 
 - Se utilizo APIs de la pagina https://estadisticasbcra.com/ para obtener los datos historicos, tanto del dólar ocicial como del dólar blue en Argentina.
 
-![image](https://user-images.githubusercontent.com/77293107/191101570-e5238f12-2856-42cb-af4c-038fdcca37e3.png)
+![image](Calculadora.png)
